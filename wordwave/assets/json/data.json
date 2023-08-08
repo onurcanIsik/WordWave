@@ -1,0 +1,182 @@
+[
+    {
+        "title": "Bu bir Meyve",
+        "names": [
+            "ELMA",
+            "KARPUZ",
+            "ARMUT",
+            "PORTAKAL",
+            "MUZ",
+            "ÇİLEK",
+            "ÜZÜM",
+            "KİVİ",
+            "ŞEFTALİ",
+            "ERİK"
+        ]
+    },
+    {
+        "title": "Bu bir Teknoloji",
+        "names": [
+            "BİLGİSAYAR",
+            "MOUSE",
+            "KLAVYE",
+            "MONİTÖR",
+            "YAZICI",
+            "TELEFON",
+            "KULAKLIK",
+            "ROUTER",
+            "KAMERA",
+            "TABLET"
+        ]
+    },
+    {
+        "title": "Bu bir Website",
+        "names": [
+            "GİTHUB",
+            "LINKEDIN",
+            "TWITTER",
+            "FACEBOOK",
+            "GOOGLE",
+            "INSTAGRAM",
+            "YOUTUBE",
+            "REDDIT",
+            "PINTEREST",
+            "TUMBLR"
+        ]
+    },
+    {
+        "title": "Bu bir Balık",
+        "names": [
+            "SARDALYA",
+            "LEVREK",
+            "MERSİN BALIĞI",
+            "SOMON",
+            "MERCAN",
+            "HAMSİ",
+            "KARIDES",
+            "TON BALIĞI",
+            "KÖPEK BALIĞI",
+            "MİDYE"
+        ]
+    },
+    {
+        "title": "Bu bir Element",
+        "names": [
+            "HİDROJEN",
+            "HELYUM",
+            "KARBON",
+            "OXYGEN",
+            "DEMİR",
+            "ALTIN",
+            "GÜMÜŞ",
+            "RADMİYUM",
+            "BERYLLİUM",
+            "SEZYUM"
+        ]
+    },
+    {
+        "title": "Bu bir Hayvan",
+        "names": [
+            "ASLAN",
+            "KARTAL",
+            "KÖPEK",
+            "KEDİ",
+            "YUNUS",
+            "KAPLAN",
+            "AT",
+            "FİL",
+            "KUZU",
+            "SİNCAP"
+        ]
+    },
+    {
+        "title": "Bu bir Futbolcu",
+        "names": [
+            "MESSI",
+            "RONALDO",
+            "NEYMAR",
+            "MBAPPÉ",
+            "SALAH",
+            "HAALAND",
+            "LEWANDOWSKI",
+            "INIESTA",
+            "ZIDANE",
+            "PELE"
+        ]
+    },
+    {
+        "title": "Bu bir Basketbolcu",
+        "names": [
+            "LEBRON JAMES",
+            "MICHAEL JORDAN",
+            "KOBE BRYANT",
+            "KEVIN DURANT",
+            "STEPHEN CURRY",
+            "SHAQUILLE O'NEAL",
+            "TIM DUNCAN",
+            "MAGIC JOHNSON",
+            "KAREEM ABDUL-JABBAR",
+            "LARRY BIRD"
+        ]
+    },
+    {
+        "title": "Bu bir Esporcu",
+        "names": [
+            "FAKER",
+            "S1MPLE",
+            "UZI",
+            "SCREAM",
+            "GOGOING",
+            "XPEKE",
+            "TOXIC",
+            "COLDZERA",
+            "PASHABICEPS",
+            "TENZ"
+        ]
+    },
+    {
+        "title": "Bu bir Telefon",
+        "names": [
+            "IPHONE",
+            "SAMSUNG",
+            "XIAOMI",
+            "OPPO",
+            "LG",
+            "SONY",
+            "GOOGLE PIXEL",
+            "ONEPLUS",
+            "HUAWEI",
+            "NOKIA"
+        ]
+    },
+    {
+        "title": "Bu bir Mutfak Eşyası",
+        "names": [
+            "TABAK",
+            "ÇATAL",
+            "BIÇAK",
+            "TAVA",
+            "TENCERE",
+            "KAŞIK",
+            "ÇAYDANLIK",
+            "MİKSER",
+            "BLNDER",
+            "KETTLE"
+        ]
+    },
+    {
+        "title": "Bu bir Oyun",
+        "names": [
+            "MARIO",
+            "ZELDA",
+            "WITCHER",
+            "HALO",
+            "FORTNITE",
+            "APEX LEGENDS",
+            "CALL OF DUTY",
+            "OVERWATCH",
+            "THE LAST OF US",
+            "SKYRIM"
+        ]
+    }
+]
